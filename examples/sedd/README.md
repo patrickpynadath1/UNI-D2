@@ -9,7 +9,7 @@ SEDD bridges the gap between score matching and discrete data by proposing score
 Train on OpenWebText:
 
 ```bash
-bash examples/sedd/src.sh
+bash examples/sedd/owt.sh
 ```
 
 ## Citation
