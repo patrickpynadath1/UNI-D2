@@ -1,6 +1,6 @@
 # UNI-D² Research Codebase
 
-[![Documentation](https://img.shields.io/badge/docs-online-blue)](https://nkalyanv.github.io/uni-d2/)
+[![Documentation](https://img.shields.io/badge/docs-online-blue)](https://nkalyanv99.github.io/UNI-D2/)
 
 Moving beyond the constraints of autoregressive modeling, UNI-D² brings the benefits of iterative refinement—data efficiency, bidirectional context, and parallel decoding—to the text domain. This library serves as the missing foundation for this rapidly growing space, featuring an easily extendible architecture that supports multiple modular training methods. Our unified pipeline facilitates rapid experimentation, enables comparable evaluation, and standardizes benchmarks across the field.
 

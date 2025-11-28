@@ -84,9 +84,9 @@ flash-attn = [
 uni-d2 = "discrete_diffusion.__main__:main"
 
 [project.urls]
-Homepage = "https://github.com/nkalyanv/uni-d2"
-Documentation = "https://nkalyanv.github.io/uni-d2/"
-Repository = "https://github.com/nkalyanv/uni-d2"
+Homepage = "https://github.com/nkalyanv99/UNI-D2"
+Documentation = "https://nkalyanv99.github.io/UNI-D2/"
+Repository = "https://github.com/nkalyanv99/UNI-D2"
 
 [tool.setuptools]
 package-dir = {"" = "src"}
