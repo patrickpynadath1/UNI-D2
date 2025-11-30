@@ -1,6 +1,7 @@
 defaults:
   - /forward_process: candi_hybrid
 
+
 _target_: discrete_diffusion.algorithms.candi.CANDI
 name: candi 
 backbone: dit_candi
@@ -16,3 +17,5 @@ temp: 1.0
 noise_schedule:
   name: inverse_cdf
   eps: ${noise.eps}
+sampler:
+  _target_: discrete_diffusion.sampling.candi_sampler.CANDI_Sampler
